@@ -199,6 +199,17 @@ For start-up/push back contact OKĘCIE GROUND – FREQ 121.905 MHz – only when
 
 De-icing position will be assigned depending on air traffic flow and ACFT type, taxi according to ATC instructions.
 
+
+#### Ice shedding
+
+Aircraft engine ice shedding is a procedure used to remove ice accumulated on engine fan blades and other inlet components during operation in icing conditions. It typically involves temporarily increasing engine thrust to a specified level, allowing centrifugal forces and airflow to dislodge accumulated ice. The procedure helps prevent excessive engine vibration, performance degradation and potential engine damage. The required thrust setting, duration and frequency are aircraft- and engine-specific and are defined by the manufacturer's operating procedures.
+
+During taxi crews shall inform ATC when ice shedding is required, either due to weather conditions or after the obligatory time interval has elapsed. Ground controller  assigns ice shedding position based on the operational situation at the aerodrome. Ice shedding procedure on taxiways may only be carried out in designated locations. On a taxiway, crews may use up to 70% engine power. On the runway, the ice shedding procedure is allowed without N1 limitation but only after request to ATC expressed **before** line-up.
+A temporary ice shedding position may be designated only in exceptional circumstances and with ATC clearance.
+
+Designated ice shedding positions are been marked on the additional map layer.
+
+
 ### VFR traffic
 
 VFR flights in the CTR EPWA should follow published VFR routes, and shortcuts other than

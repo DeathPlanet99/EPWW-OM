@@ -80,7 +80,9 @@ De-icing for code letter A, B and C ACFT is designated on stands 22 and 26-30. F
 |T, S|36 m|NIL|
 |Z4, Z5, Z6|52 m|NIL|
 
-Engine tests are allowed only on TWY B.
+Engine tests shall be conducted only on TWY B. An engine test is an engine ground run conducted for maintenance or diagnostic purposes.
+
+Routine pre-departure engine run-up checks performed by general aviation (GA) aircraft are part of the normal pre-flight checks and are not considered engine tests. These checks may be performed at suitable locations on or adjacent to taxiways, subject to prevailing traffic conditions and ATC instructions.
 
 Stands 24L, 24, 24R, 25L, 25, 25R are available for skid-based helicopters.
 
